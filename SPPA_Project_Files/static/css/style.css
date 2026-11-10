@@ -1,0 +1,4 @@
+.hero {
+    height: 70vh;
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=1400') center/cover;
+}
